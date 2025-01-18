@@ -1,208 +1,84 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://e.erw.cc/e.xml"
 
-#EXTINF:-1 logo="" group-title="" ,CCTV-1
-http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-1
-http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-1
-http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-3
-http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-5
-http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-5+
-http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-7
-http://39.134.66.66/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-7
-http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-9
-http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-10
-http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-10
-http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-12
-http://223.110.246.67/ott.js.chinamobile.com/PLTV/4/224/3221225556/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-12
-http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-13
-http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-13
-http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-13
-http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-14
-http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-16
-http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-17
-http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,CCTV-女性时尚
-http://223.110.245.152/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,香港卫视文旅
-https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-#EXTINF:-1 logo="" group-title="" ,HKC 18台
-http://link.sczhgx.com:14819/hls/39/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,HKC电影台
-http://link.sczhgx.com:14819/hls/40/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,HKC体育台
-http://link.sczhgx.com:14819/hls/35/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,HKC新闻台
-http://link.sczhgx.com:14819/hls/33/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳门3
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳门莲花卫视
-http://nettvpro.live/hls/lotustv.php
-#EXTINF:-1 logo="" group-title="" ,澳视澳门
-http://103.233.191.134:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视澳门
-http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视葡文
-http://103.233.191.132:1935/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视葡文
-http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视葡文
-http://61.244.22.4/ch2/ch2.live/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视葡文
-http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视葡文
-http://103.233.191.133:1935/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视葡文
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视葡文
-http://103.233.191.134:1935/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视体育
-http://103.233.191.134:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视体育
-http://103.233.191.132:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视体育
-http://103.233.191.133:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视卫星
-http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视卫星
-http://103.233.191.132:1935/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视卫星
-http://61.244.22.4/ch3/ch3.live/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视卫星
-http://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视信息
-http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视信息
-http://103.233.191.133:1935/ch5/info_ch5.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视综艺
-http://103.233.191.133:1935/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视综艺
-http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳视综艺
-http://103.233.191.134:1935/ch6/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳亚卫视
-http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳亚卫视
-http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
-#EXTINF:-1 logo="" group-title="" ,澳亚卫视
-http://live.mastvnet.com:800/4rlff1m/live.m3u8
-#EXTINF:-1 logo="" group-title="" ,创世电视
-https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
-#EXTINF:-1 logo="" group-title="" ,创世电视
-https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
-#EXTINF:-1 logo="" group-title="" ,点掌财经
-http://cclive.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 logo="" group-title="" ,点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 logo="" group-title="" ,东森财经新闻
-rtmp://59.124.75.138/sat/tv571
-#EXTINF:-1 logo="" group-title="" ,东森电影台
-http://gxfrg007.8800.org:8282/tsfile/live/1049_1.m3u8
-#EXTINF:-1 logo="" group-title="" ,东森洋片台
-http://gxfrg007.8800.org:8282/tsfile/live/1050_1.m3u8
-#EXTINF:-1 logo="" group-title="" ,华视
-rtmp://59.124.75.138/sat/tv111
-#EXTINF:-1 logo="" group-title="" ,华视
-rtmp://59.124.75.157/sat/tv111
-#EXTINF:-1 logo="" group-title="" ,民视
-rtmp://59.124.75.157/sat/tv051
-#EXTINF:-1 logo="" group-title="" ,民视
-rtmp://59.124.75.138/sat/tv051
-#EXTINF:-1 logo="" group-title="" ,台视
-rtmp://59.124.75.157:1935/sat/tv071
-#EXTINF:-1 logo="" group-title="" ,台视
-rtmp://59.124.75.138/sat/tv071
-#EXTINF:-1 logo="" group-title="" ,中视
-rtmp://59.124.75.138/sat/tv091
-#EXTINF:-1 logo="" group-title="" ,TVBS欢乐台
-rtmp://59.124.75.138/sat/tv421
-#EXTINF:-1 logo="" group-title="" ,TVBS欢乐台
-rtmp://59.124.75.138:1935/sat/tv421
-#EXTINF:-1 logo="" group-title="" ,TVBS精采台
-rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910cd8
-#EXTINF:-1 logo="" group-title="" ,TVBS新闻台
-rtmp://59.124.75.138/sat/tv551
-#EXTINF:-1 logo="" group-title="" ,TVBS新闻台
-rtmp://59.124.75.157:1935/sat/tv551
-#EXTINF:-1 logo="" group-title="" ,东森财经新闻台
-http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 logo="" group-title="" ,东森新闻
-http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 logo="" group-title="" ,华视新闻
-http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 logo="" group-title="" ,寰宇新闻台
-http://seb.sason.top/sc/hyxw.m3u8
-#EXTINF:-1 logo="" group-title="" ,民视
-http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 logo="" group-title="" ,民视第一台
-http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 logo="" group-title="" ,民视旅游台
-http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1 logo="" group-title="" ,民视台湾台
-http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 logo="" group-title="" ,民视新闻台
-http://seb.sason.top/sc/msxw_fhd.m3u8
-#EXTINF:-1 logo="" group-title="" ,民视影剧台
-http://seb.sason.top/ptv/ftv.php?id=yj
-#EXTINF:-1 logo="" group-title="" ,民视综艺台
-http://seb.sason.top/ptv/ftv.php?id=zy
-#EXTINF:-1 logo="" group-title="" ,三立iNews新闻
-http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 logo="" group-title="" ,三立Live新闻
-http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 logo="" group-title="" ,台视新闻
-http://seb.sason.top/sc/tsxw_fhd.m3u8
-#EXTINF:-1 logo="" group-title="" ,中视新闻
-http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 logo="" group-title="" ,中天新闻
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 logo="" group-title="" ,TVBS新闻
-http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 logo="" group-title="" ,东方卫视
-http://39.134.39.39/PLTV/88888888/224/3221226155/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,东方卫视
-http://39.134.66.110/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,东方卫视
-http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,东南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,湖北卫视
-http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,湖北卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,湖南卫视
-http://39.134.66.110/PLTV/88888888/224/3221225506/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,湖南卫视
-http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,湖南卫视
-http://39.134.39.39/PLTV/88888888/224/3221226193/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,江苏卫视
-http://39.134.66.110/PLTV/88888888/224/3221225503/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,江苏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,江苏卫视
-http://39.134.66.66/PLTV/88888888/224/3221225503/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,金鹰纪实
-http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226064/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 logo="" group-title="" ,深圳卫视
-http://39.134.66.66/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,深圳卫视
-http://39.134.66.110/PLTV/88888888/224/3221225668/index.m3u8
-#EXTINF:-1 logo="" group-title="" ,深圳卫视
-http://39.134.39.39/PLTV/88888888/224/3221226199/index.m3u8
+#EXTINF:-1 tvg-name="中天新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",中天新聞台
+http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",翡翠台
+http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS-新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVBS-新聞台
+http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",鳳凰中文
+http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVBS" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVBS
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-name="无线新闻台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",无线新闻台(北美)
+http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰資訊" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",鳳凰資訊
+http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",無線新聞台
+http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",美亞電影台(HK)
+http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",明珠台
+http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",鳳凰香港
+http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",TVB Plus
+http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠综合台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",翡翠综合台(北美)
+http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 tvg-name="千禧經典台(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",千禧經典台(HK)
+http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+#EXTINF:-1 tvg-name="翡翠剧集台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",翡翠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 tvg-name="PopC" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",PopC
+http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-name="黃金翡翠台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",黃金翡翠台
+http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+#EXTINF:-1 tvg-name="myTV SUPER 18台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",myTV SUPER 18台
+http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+#EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",明珠剧集台(北美)
+http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Channel 8 HD
+http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Channel 5 HD
+http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+#EXTINF:-1 tvg-name="28 AI 智慧賽馬" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",28 AI 智慧賽馬
+http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
+#EXTINF:-1 tvg-name="tvN" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",tvN
+http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ROCK Action
+http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+#EXTINF:-1 tvg-name="Channel U HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Channel U HD
+http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Animax(HK)" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Animax(HK)
+http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="無線衛星新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",無線衛星新聞台
+http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Thrill
+http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+#EXTINF:-1 tvg-name="France 24" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",France 24
+http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+#EXTINF:-1 tvg-name="DW" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",DW
+http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+#EXTINF:-1 tvg-name="亞洲新聞台" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",亞洲新聞台
+http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-name="東方衛視國際頻道" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",東方衛視國際頻道
+http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
+#EXTINF:-1 tvg-name="KIX" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",KIX
+http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Nick Jr
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Nickelodeon
+http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+#EXTINF:-1 tvg-name="AXN" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",AXN
+http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",NHK World-Japan
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+#EXTINF:-1 tvg-name="NHK東京総合" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",NHK東京総合
+http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Love Nature HD
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="http://aktv.top/ak_ad1.gif" group-title="AKTV",Love Nature HD
+http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
